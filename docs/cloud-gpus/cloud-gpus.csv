@@ -92,10 +92,10 @@ Dataoorts,A100 (80 GB),Ampere,8,80,200-240,1200-1600,4.40,0.55,,gc2.a100-80-8
 Dataoorts,H100 (80 GB),Hopper,1,80,20-26,150-200,0.69,0.69,,gc2.h100-80-1
 Dataoorts,H100 (80 GB),Hopper,8,80,188-208,1200-1600,5.52,0.69,,gc2.h100-80-8
 Dataoorts,GH200 (96 GB),Grace-Hopper,1,96,30-36,150-200,0.88,0.88,,gc2.gh200-96-1
-Exoscale,P100 (16 GB),Pascal,1,16,12,56,1.17,1.17,,GPU SMALL
-Exoscale,P100 (16 GB),Pascal,2,32,24,90,1.71,0.86,,GPU MEDIUM
-Exoscale,P100 (16 GB),Pascal,4,64,48,120,2.54,0.64,,GPU LARGE
-Exoscale,P100 (16 GB),Pascal,8,128,96,225,2.82,0.35,,GPU HUGE
+Exoscale,A30 (24 GB),Ampere,1,24,12,56,1.22,1.22,,GPU SMALL
+Exoscale,A30 (24 GB),Ampere,2,48,16,90,1.79,1.79,,GPU MEDIUM 
+Exoscale,A30 (24 GB),Ampere,3,72,24,120,2.366,2.366,,GPU LARGE
+Exoscale,A30 (24 GB),Ampere,4,96,48,225,2.96,2.96,,GPU LARGE
 Exoscale,V100 (16 GB),Tesla,1,16,12,56,1.38,1.38,,GPU2 SMALL
 Exoscale,V100 (16 GB),Tesla,2,32,16,90,2.01,1.01,,GPU2 MEDIUM
 Exoscale,V100 (16 GB),Tesla,4,64,48,225,3.32,0.83,,GPU2 HUGE
