@@ -77,7 +77,7 @@ The event will run **all day** on **Saturday, April 22, 2023**.
     </ul>
 
     <div style="margin-top: auto;">
-      <a href="https://fsdl.me/2023-conf-online-reg" style="width: 100%" class="md-button">RSVP</a>
+      <a href="#" style="width: 100%" class="md-button">RSVP</a>
     </div>
 
   </div>
@@ -96,7 +96,7 @@ The event will run **all day** on **Saturday, April 22, 2023**.
     </ul>
 
     <div style="margin-top: auto">
-      <a href="https://fsdl.me/2023-conf-irl-reg" style="width: 100%" class="md-button md-button--primary">Register here</a>
+      <a href="#" style="width: 100%" class="md-button md-button--primary">Register here</a>
     </div>
 
   </div>
