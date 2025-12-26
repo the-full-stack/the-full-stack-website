@@ -11,7 +11,7 @@ description: How to turn an ML model into an ML-powered product
 Lecture by [Josh Tobin](https://twitter.com/josh_tobin_).<br />
 Notes by [James Le](https://twitter.com/le_james94) and [Vishnu Rachakonda](https://www.linkedin.com/in/vrachakonda/).<br />
 Published September 5, 2022.
-[Download slides](https://fsdl.me/2022-lecture-05-slides).
+[Download slides](https://drive.google.com/file/d/1ABdEgVHvOIBtJhfmzy5ps_dMrwFKlgwd/view?usp=sharing).
 
 ## Introduction
 

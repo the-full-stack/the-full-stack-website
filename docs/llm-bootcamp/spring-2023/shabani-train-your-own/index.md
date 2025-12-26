@@ -11,6 +11,6 @@ embed_image: https://fullstackdeeplearning.com/llm-bootcamp/spring-2023/shabani-
 
 Lecture by [Reza Shabani](https://twitter.com/truerezashabani).
 Published May 25, 2023.
-[Download slides](https://fsdl.me/2023-llmbc-slides-shabani).
+[Download slides](https://docs.google.com/presentation/d/13yrWx4eSLkne8d0s9iIqTEBWr8wRgG9nBdmSHLIOu84/edit?usp=share_link).
 
 --8<-- "llm-bootcamp/spring-2023/shabani-train-your-own/chapter_summaries.md"

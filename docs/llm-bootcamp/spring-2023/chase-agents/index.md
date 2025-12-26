@@ -11,6 +11,6 @@ embed_image: https://fullstackdeeplearning.com/llm-bootcamp/spring-2023/chase-ag
 
 Lecture by [Harrison Chase](https://twitter.com/hwchase17).
 Published May 25, 2023.
-[Download slides](https://fsdl.me/2023-llmbc-slides-chase).
+[Download slides](https://docs.google.com/presentation/d/1EDmM1R0AcstfjadCUpvoa8h7NGwNqE2dwtJXqRK1618/edit?usp=share_link).
 
 --8<-- "llm-bootcamp/spring-2023/chase-agents/chapter_summaries.md"

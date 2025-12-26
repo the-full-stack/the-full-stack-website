@@ -12,7 +12,7 @@ By [Charles Frye](https://twitter.com/charles_irl). Published August 17, 2022.
 </div>
 
 <div align="center">
-  <a href="https://fsdl.me/lab04-colab"> <img src=https://colab.research.google.com/assets/colab-badge.svg width=240></a>
+  <a href="https://colab.research.google.com/github/full-stack-deep-learning/fsdl-text-recognizer-2022-labs/blob/main/lab04/notebooks/lab04_experiments.ipynb"> <img src=https://colab.research.google.com/assets/colab-badge.svg width=240></a>
 </div>
 
 In this lab,
@@ -45,5 +45,5 @@ using a tool called Weights & Biases.
 
     If you're already basically familiar with training neural networks
     in any framework, you really only need to review
-    [Lab 02a](https://fsdl.me/2022-lab-02-video),
+    [Lab 02a](https://www.youtube.com/watch?v=6fSd8RdtDBs&list=PL1T8fO7ArWleMMI8KPJ_5D5XSlovTW_Ur&index=4&ab_channel=FullStackDeepLearning),
     on using PyTorch Lightning.

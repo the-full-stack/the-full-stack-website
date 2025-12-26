@@ -11,7 +11,7 @@ description: Building on Transformers, GPT-3, CLIP, StableDiffusion, and other L
 Lecture by [Sergey Karayev](https://twitter.com/sergeykarayev).
 Notes by [James Le](https://twitter.com/le_james94) and [Vishnu Rachakonda](https://www.linkedin.com/in/vrachakonda/).<br />
 Published September 19, 2022.
-[Download slides](https://fsdl.me/2022-lecture-07-slides).
+[Download slides](https://drive.google.com/file/d/17ZAj6izyYhV-SXA_UKNWjYo0adbL2E8n/view).
 
 Foundation models are very large models trained on very large datasets that
 can be used for multiple downstream tasks.

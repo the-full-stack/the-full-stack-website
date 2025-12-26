@@ -36,10 +36,10 @@ that are of most interest to you.
 
 | Lab                                                       |                      Colab                       |                      Video                      |
 | :-------------------------------------------------------- | :----------------------------------------------: | :---------------------------------------------: |
-| **Lab 01: Deep Neural Networks in PyTorch**               | [![open-in-colab]](https://fsdl.me/lab01-colab)  | [![yt-logo]](https://fsdl.me/2022-lab-01-video) |
-| **Lab 02a: PyTorch Lightning**                            | [![open-in-colab]](https://fsdl.me/lab02a-colab) | [![yt-logo]](https://fsdl.me/2022-lab-02-video) |
-| **Lab 02b: Training a CNN on Synthetic Handwriting Data** | [![open-in-colab]](https://fsdl.me/lab02b-colab) | [![yt-logo]](https://fsdl.me/2022-lab-02-video) |
-| **Lab 03: Transformers and Paragraphs**                   | [![open-in-colab]](https://fsdl.me/lab03-colab)  | [![yt-logo]](https://fsdl.me/2022-lab-03-video) |
+| **Lab 01: Deep Neural Networks in PyTorch**               | [![open-in-colab]](https://colab.research.google.com/github/full-stack-deep-learning/fsdl-text-recognizer-2022-labs/blob/main/lab01/notebooks/lab01_pytorch.ipynb)  | [![yt-logo]](https://www.youtube.com/watch?v=9w8CVuHUk8U&list=PL1T8fO7ArWleMMI8KPJ_5D5XSlovTW_Ur&index=3&ab_channel=FullStackDeepLearning) |
+| **Lab 02a: PyTorch Lightning**                            | [![open-in-colab]](https://colab.research.google.com/github/full-stack-deep-learning/fsdl-text-recognizer-2022-labs/blob/main/lab02/notebooks/lab02a_lightning.ipynb) | [![yt-logo]](https://www.youtube.com/watch?v=6fSd8RdtDBs&list=PL1T8fO7ArWleMMI8KPJ_5D5XSlovTW_Ur&index=4&ab_channel=FullStackDeepLearning) |
+| **Lab 02b: Training a CNN on Synthetic Handwriting Data** | [![open-in-colab]](https://colab.research.google.com/github/full-stack-deep-learning/fsdl-text-recognizer-2022-labs/blob/main/lab02/notebooks/lab02b_cnn.ipynb) | [![yt-logo]](https://www.youtube.com/watch?v=6fSd8RdtDBs&list=PL1T8fO7ArWleMMI8KPJ_5D5XSlovTW_Ur&index=4&ab_channel=FullStackDeepLearning) |
+| **Lab 03: Transformers and Paragraphs**                   | [![open-in-colab]](https://colab.research.google.com/github/full-stack-deep-learning/fsdl-text-recognizer-2022-labs/blob/main/lab03/notebooks/lab03_transformers.ipynb)  | [![yt-logo]](https://youtu.be/lsWLgQyaeik?list=PL1T8fO7ArWleMMI8KPJ_5D5XSlovTW_Ur) |
 
 ## Running the labs
 
@@ -55,7 +55,7 @@ complete with free GPU.
 The badge below opens Lab 01, on PyTorch.
 
 <div align="center">
-  <a href="https://fsdl.me/lab01-colab"> <img src=https://colab.research.google.com/assets/colab-badge.svg width=240></a>
+  <a href="https://colab.research.google.com/github/full-stack-deep-learning/fsdl-text-recognizer-2022-labs/blob/main/lab01/notebooks/lab01_pytorch.ipynb"> <img src=https://colab.research.google.com/assets/colab-badge.svg width=240></a>
 </div>
 
 You can read more
@@ -71,7 +71,7 @@ If you have a Linux machine with an NVIDIA GPU and drivers,
 either locally or in the cloud,
 you can also run the labs there.
 The video above and text instructions
-[here](http://fsdl.me/2022-local-setup)
+[here](https://github.com/full-stack-deep-learning/fsdl-text-recognizer-2022-labs/tree/main/setup#Local)
 should be enough to get you going.
 
 !!! info "Don't get stuck on setup!"
@@ -81,5 +81,5 @@ should be enough to get you going.
     to the material you are really trying to learn and getting stuck in an installation quagmire,
     just run the labs on Colab so you can get back to learning about machine learning!
 
-[yt-logo]: https://fsdl.me/yt-logo-badge
+[yt-logo]: https://fsdl-public-assets.s3.us-west-2.amazonaws.com/yt-logo-badge.svg
 [open-in-colab]: https://colab.research.google.com/assets/colab-badge.svg

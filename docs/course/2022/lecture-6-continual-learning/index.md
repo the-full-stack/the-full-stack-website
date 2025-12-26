@@ -11,7 +11,7 @@ description: How to continuously improve models in production
 Lecture by [Josh Tobin](https://twitter.com/josh_tobin_).
 Notes by [James Le](https://twitter.com/le_james94) and [Vishnu Rachakonda](https://www.linkedin.com/in/vrachakonda/).<br />
 Published September 12, 2022.
-[Download slides](https://fsdl.me/2022-lecture-06-slides).
+[Download slides](https://drive.google.com/file/d/10fDYIEELIeT3Nju001GTAxM_YYUDFMpB/view?usp=sharing).
 
 ## 1 - Overview
 

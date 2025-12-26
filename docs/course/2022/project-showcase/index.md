@@ -15,7 +15,7 @@ we hope these projects inspire you to build something real with DNNs!
     Many of these projects were made possible thanks to a generous donation of GPU-accelerated compute infrastructure by [LambdaLabs](https://lambdalabs.com/). Check them out if you're looking for on-prem or cloud GPU machines!
 
 If you're interested in working on full stack projects,
-[join us on Discord](https://fsdl.me/join-discord)
+[join us on Discord](https://discord.gg/crkBBSQ9p6)
 and post/ask around about group project work.
 
 ## Course Co-Pilot

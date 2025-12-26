@@ -5,7 +5,7 @@ We organized the synchronous cohort for the 2022 course via Discord.
 ## It's project time! How do I access my free GPUs?
 
 Check out the instructions
-[here](https://fsdl.me/2022-get-gpus).
+[here](https://gist.github.com/charlesfrye/e27adfc47129a4c209f6dfcb14467fba).
 
 ## How do I know if I'm fully registered?
 
@@ -31,10 +31,10 @@ check out the video below:
 ## How do I control my notifications in Discord?
 
 To stay apprised of updates without getting overwhelmed, we suggest these notification settings:
-![notification settings](https://fsdl.me/notification-settings)
+![notification settings](https://i.imgur.com/nFNicSD.png)
 
 You can find them here in the Discord web client:
-![notification-menu](https://fsdl.me/notification-menu)
+![notification-menu](https://i.imgur.com/CF1N80A.gif)
 
 #### Only course staff can use the remaining notification stream, @mentions.
 

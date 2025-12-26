@@ -47,7 +47,7 @@ not just yours!
 
     The cost of the bootcamp is `{price}`. I strongly believe that this investment in my education will benefit the company in the long run.
 
-    If you are interested, you can find more details about the bootcamp, including the instructors and their bios, at the following link: https://fsdl.me/2023-llmbc-landing.
+    If you are interested, you can find more details about the bootcamp, including the instructors and their bios, at the following link: https://fullstackdeeplearning.com/llm-bootcamp/.
 
     Thank you for considering my request.
 

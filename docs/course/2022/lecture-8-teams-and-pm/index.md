@@ -11,7 +11,7 @@ description: Building ML-powered products and the teams who create them
 Lecture by [Josh Tobin](https://twitter.com/josh_tobin_).
 Notes by [James Le](https://twitter.com/le_james94) and [Vishnu Rachakonda](https://www.linkedin.com/in/vrachakonda/).<br />
 Published September 26, 2022.
-[Download slides](https://fsdl.me/2022-lecture-08-slides).
+[Download slides](https://drive.google.com/file/d/1o2x8ywivp555__AEbLLI28BsiQmHobOh/view?usp=sharing).
 
 ## 0 - Why is this hard?
 

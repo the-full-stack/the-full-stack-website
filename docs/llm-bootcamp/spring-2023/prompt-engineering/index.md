@@ -11,6 +11,6 @@ embed_image: https://fullstackdeeplearning.com/llm-bootcamp/spring-2023/prompt-e
 
 Lecture by [Charles Frye](https://twitter.com/charles_irl).
 Published May 9, 2023.
-[Download slides](https://fsdl.me/2023-llmbc-slides-03).
+[Download slides](https://drive.google.com/file/d/1A4j3bF-xj3lX1vypr6BI3C0HimKryYIV/view?usp=share_link).
 
 --8<-- "llm-bootcamp/spring-2023/prompt-engineering/chapter_summaries.md"

@@ -11,6 +11,6 @@ embed_image: https://fullstackdeeplearning.com/llm-bootcamp/spring-2023/launch-a
 
 Lecture by [Charles Frye](https://twitter.com/charles_irl).
 Published May 9, 2023.
-[Download slides](https://fsdl.me/2023-llmbc-slides-01).
+[Download slides](https://drive.google.com/file/d/14QR11XyhPlXVVpfuSZ0OA1AEMfxvVDop/view?usp=share_link).
 
 --8<-- "llm-bootcamp/spring-2023/launch-an-llm-app-in-one-hour/chapter_summaries.md"

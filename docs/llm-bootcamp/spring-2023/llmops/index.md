@@ -11,6 +11,6 @@ embed_image: https://fullstackdeeplearning.com/llm-bootcamp/spring-2023/llmops/c
 
 Lecture by [Josh Tobin](https://twitter.com/josh_tobin_).
 Published May 9, 2023.
-[Download slides](https://fsdl.me/2023-llmbc-slides-07).
+[Download slides](https://drive.google.com/file/d/1LZXTrRdrloIqAJT6xaNTl4WQd6y95o7K/view?usp=share_link).
 
 --8<-- "llm-bootcamp/spring-2023/llmops/chapter_summaries.md"

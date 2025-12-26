@@ -11,6 +11,6 @@ embed_image: https://fullstackdeeplearning.com/llm-bootcamp/spring-2023/ux-for-l
 
 Lecture by [Sergey Karayev](https://twitter.com/sergeykarayev) and [Charles Frye](https://twitter.com/charles_irl).
 Published May 9, 2023.
-[Download slides](https://fsdl.me/2023-llmbc-slides-06).
+[Download slides](https://drive.google.com/file/d/1A6ZkodDUuyQzVE3HCrI8iHs3y-9wDI1t/view?usp=share_link).
 
 --8<-- "llm-bootcamp/spring-2023/ux-for-luis/chapter_summaries.md"

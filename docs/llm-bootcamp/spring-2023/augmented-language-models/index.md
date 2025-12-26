@@ -11,6 +11,6 @@ embed_image: https://fullstackdeeplearning.com/llm-bootcamp/spring-2023/augmente
 
 Lecture by [Josh Tobin](https://twitter.com/josh_tobin_).
 Published May 9, 2023.
-[Download slides](https://fsdl.me/2023-llmbc-slides-04).
+[Download slides](https://drive.google.com/file/d/1A5RcMETecn6Aa4nNzpVx9kTKdyeErqrI/view?usp=share_link).
 
 --8<-- "llm-bootcamp/spring-2023/augmented-language-models/chapter_summaries.md"

@@ -11,6 +11,6 @@ embed_image: https://fullstackdeeplearning.com/llm-bootcamp/spring-2023/llm-foun
 
 Lecture by [Sergey Karayev](https://twitter.com/sergeykarayev).
 Published May 19, 2023.
-[Download slides](https://fsdl.me/2023-llmbc-slides-02).
+[Download slides](https://drive.google.com/file/d/1A4Sh6l3cqn0k5ho1vnFOnzU0Fz7dQOK7/view?usp=share_link).
 
 --8<-- "llm-bootcamp/spring-2023/llm-foundations/chapter_summaries.md"

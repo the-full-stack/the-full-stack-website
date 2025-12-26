@@ -12,7 +12,7 @@ By [Charles Frye](https://twitter.com/charles_irl). Published July 25, 2022.
 </div>
 
 <div align="center">
-  <a href="https://fsdl.me/2022-overview"> <img src=https://colab.research.google.com/assets/colab-badge.svg width=240> </a>
+  <a href="https://colab.research.google.com/github/full-stack-deep-learning/fsdl-text-recognizer-2022-labs/blob/main/overview.ipynb"> <img src=https://colab.research.google.com/assets/colab-badge.svg width=240> </a>
 </div>
 
 ## What are these labs for?
@@ -53,7 +53,7 @@ For a guided tour of this architecture, watch the video at the top of the page o
 click the badge below to open an interactive Jupyter notebook on Google Colab:
 
 <div align="center">
-  <a href="https://fsdl.me/2022-overview"> <img src=https://colab.research.google.com/assets/colab-badge.svg width=240> </a>
+  <a href="https://colab.research.google.com/github/full-stack-deep-learning/fsdl-text-recognizer-2022-labs/blob/main/overview.ipynb"> <img src=https://colab.research.google.com/assets/colab-badge.svg width=240> </a>
 </div>
 
 ## Running the labs
@@ -71,7 +71,7 @@ The badge below opens the first main-track lab,
 [Lab 4 on experiment management](https://fullstackdeeplearning.com/course/2022/lab-4-experiment-management/).
 
 <div align="center">
-  <a href="https://fsdl.me/lab00-colab"> <img src=https://colab.research.google.com/assets/colab-badge.svg width=240></a>
+  <a href="https://colab.research.google.com/github/full-stack-deep-learning/fsdl-text-recognizer-2022-labs/blob/main/overview.ipynb"> <img src=https://colab.research.google.com/assets/colab-badge.svg width=240></a>
 </div>
 
 You can read more
@@ -87,7 +87,7 @@ If you have a Linux machine with an NVIDIA GPU and drivers,
 either locally or in the cloud,
 you can also run the labs there.
 The video above and text instructions
-[here](http://fsdl.me/2022-local-setup)
+[here](https://github.com/full-stack-deep-learning/fsdl-text-recognizer-2022-labs/tree/main/setup#Local)
 should be enough to get you going.
 
 !!! info "Don't get stuck on setup!"
@@ -97,5 +97,5 @@ should be enough to get you going.
     to the material you are really trying to learn and getting stuck in an installation quagmire,
     just run the labs on Colab so you can get back to learning about machine learning!
 
-[yt-logo]: https://fsdl.me/yt-logo-badge
+[yt-logo]: https://fsdl-public-assets.s3.us-west-2.amazonaws.com/yt-logo-badge.svg
 [open-in-colab]: https://colab.research.google.com/assets/colab-badge.svg

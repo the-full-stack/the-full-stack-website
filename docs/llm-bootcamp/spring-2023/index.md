@@ -11,7 +11,7 @@ title: LLM Bootcamp - Spring 2023
 !!! question "What are the pre-requisites for this bootcamp?"
     Our goal is to get you 100% caught up to state-of-the-art and ready to build and deploy LLM apps, no matter what your level of experience with machine learning is.
 
-    Please enjoy, and [email](mailto:team@fullstackdeeplearning.com) us, [tweet](https://twitter.com/full_stack_dl) us, or post in [our Discord](https://fsdl.me/join-discord) if you have any questions or feedback!
+    Please enjoy, and [email](mailto:team@fullstackdeeplearning.com) us, [tweet](https://twitter.com/full_stack_dl) us, or post in [our Discord](https://discord.gg/crkBBSQ9p6) if you have any questions or feedback!
 
 ## Lectures
 
@@ -102,8 +102,8 @@ title: LLM Bootcamp - Spring 2023
 ![](askfsdl-walkthrough/cover.jpg)
 </a>
   <ul markdown>
-  - Walkthrough of a [GitHub repo](https://fsdl.me/askfsdl-github) for sourced Q&A with LLMs
-  - Try it out via a [bot in our Discord](https://fsdl.me/join-discord-askfsdl)
+  - Walkthrough of a [GitHub repo](https://github.com/full-stack-deep-learning/ask-fsdl) for sourced Q&A with LLMs
+  - Try it out via a [bot in our Discord](https://discord.gg/emmtwqd5Nh)
   - Python project tooling, ETL/data processing, deployment on Modal, and monitoring with Gantry
   </ul>
 </div>

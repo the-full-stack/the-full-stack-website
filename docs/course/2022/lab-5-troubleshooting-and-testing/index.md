@@ -12,7 +12,7 @@ By [Charles Frye](https://twitter.com/charles_irl). Published August 24, 2022.
 </div>
 
 <div align="center">
-  <a href="https://fsdl.me/lab05-colab"> <img src=https://colab.research.google.com/assets/colab-badge.svg width=240></a>
+  <a href="https://colab.research.google.com/github/full-stack-deep-learning/fsdl-text-recognizer-2022-labs/blob/main/lab05/notebooks/lab05_troubleshooting.ipynb"> <img src=https://colab.research.google.com/assets/colab-badge.svg width=240></a>
 </div>
 
 In this lab,

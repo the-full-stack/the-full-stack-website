@@ -11,6 +11,6 @@ embed_image: https://fullstackdeeplearning.com/llm-bootcamp/spring-2023/whats-ne
 
 Lecture by [Charles Frye](https://twitter.com/charles_irl) and [Sergey Karayev](https://twitter.com/sergeykarayev).
 Published May 9, 2023.
-[Download slides](https://fsdl.me/2023-llmbc-slides-08).
+[Download slides](https://drive.google.com/file/d/1AB3QiO3PGoPkiq07SKrIuJ81xA48S6D2/view?usp=share_link).
 
 --8<-- "llm-bootcamp/spring-2023/whats-next/chapter_summaries.md"

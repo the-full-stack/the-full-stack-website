@@ -11,7 +11,7 @@ description: Principles for testing software, tools for testing Python code, pra
 Lecture by [Charles Frye](https://twitter.com/charles_irl).<br />
 Notes by [James Le](https://twitter.com/le_james94) and [Vishnu Rachakonda](https://www.linkedin.com/in/vrachakonda/).<br />
 Published August 22, 2022.
-[Download slides](https://fsdl.me/2022-lecture-03-slides).
+[Download slides](https://drive.google.com/file/d/13UAHw1A7hM-O0jYGdGStN5gFCUb5XzLv/view?usp=sharing).
 
 ## 1 - Testing Software
 

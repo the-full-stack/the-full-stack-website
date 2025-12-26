@@ -11,7 +11,7 @@ description: Building ML for good while building good ML
 Lecture by [Charles Frye](https://twitter.com/charles_irl).
 Notes by [James Le](https://twitter.com/le_james94) and [Vishnu Rachakonda](https://www.linkedin.com/in/vrachakonda/).<br />
 Published October 03, 2022.
-[Download slides](https://fsdl.me/2022-lecture-09-slides).
+[Download slides](https://drive.google.com/file/d/1ytLW4fOSef1PkWmSsoFdWdrFG5d0oCKh/view?usp=sharing).
 
 In this final lecture of FSDL 2022, we'll talk about ethics. After going
 through the context of what we mean by ethics, we'll go through three

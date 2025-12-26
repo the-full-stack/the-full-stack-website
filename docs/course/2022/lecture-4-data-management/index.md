@@ -11,7 +11,7 @@ description: Sourcing, storing, exploring, processing, labeling, and versioning 
 Lecture by [Sergey Karayev](https://sergeykarayev.com).<br />
 Notes by [James Le](https://twitter.com/le_james94) and [Vishnu Rachakonda](https://www.linkedin.com/in/vrachakonda/).<br />
 Published August 29, 2022.
-[Download slides](https://fsdl.me/2022-lecture-04-slides).
+[Download slides](https://drive.google.com/file/d/17Ak9mxNBIAv_FHUZsneqSWSud9Dh7F3i/view?usp=sharing).
 
 ## 1 - Introduction
 
