@@ -1,0 +1,16 @@
+[project]
+name = "the-full-stack-website"
+version = "0.1.0"
+description = "The Full Stack website"
+readme = "readme.md"
+requires-python = ">=3.12"
+dependencies = [
+    "mkdocs",
+    "mkdocs-blogging-plugin",
+    "mkdocs-macros-plugin",
+    "mkdocs-material",
+    "mkdocs-section-index",
+]
+
+[tool.uv]
+package = false

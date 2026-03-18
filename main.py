@@ -4,7 +4,7 @@ def define_env(env):
 
 
 def main():
-    print("Hello from fsdl-website!")
+    print("Hello world!")
 
 
 if __name__ == "__main__":
