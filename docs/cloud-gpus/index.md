@@ -56,7 +56,7 @@ not just inference in particular models as a service.
 
 - Direct price comparisons are trickier for serverless offerings: cold boot time and autoscaling logic can substantially impact cost-of-traffic.
 - Some of the providers allow configuration of CPU and RAM resources. We have selected reasonable defaults, generally comparable to the fixed offerings of other providers.
-- You can find pricing pages for the providers here: [Banana](https://banana.dev#pricing), [Baseten](https://docs.baseten.co/settings/pricing), [Beam](https://beam.cloud/pricing), [Covalent](https://www.covalent.xyz/), [Modal](https://modal.com/pricing), [OVHcloud](https://www.ovhcloud.com/en/public-cloud/prices/#11264), [Replicate](https://replicate.com/pricing), [RunPod](https://www.runpod.io/serverless-gpu)
+- You can find pricing pages for the providers here: [Banana](https://banana.dev#pricing), [Baseten](https://docs.baseten.co/settings/pricing), [Beam](https://beam.cloud/pricing), [Covalent](https://www.covalent.xyz/), [Modal](https://modal.com/pricing), [OVHcloud](https://www.ovhcloud.com/en/public-cloud/prices/#11264), [Replicate](https://replicate.com/pricing), [RunPod](https://www.runpod.io/serverless-gpu), [Thunder Compute](https://www.thundercompute.com/pricing)
 - Serverless GPUs are a newer technology, so the details change quickly and you can expect bugs/growing pains. Stay frosty!
 - Raw data can be found in a [csv on GitHub](https://github.com/full-stack-deep-learning/website/blob/main/docs/cloud-gpus/serverless-gpus.csv).
 
@@ -89,6 +89,7 @@ Below are the raw TFLOPs of the different GPUs available from cloud providers.
 
 | Model | Arch   | FP32 | Mixed-precision | FP16 | Source             |
 | ----- | ------ | ---- | --------------- | ---- | ------------------ |
+| H100  | Hopper | 51   | 756             | 1513 | [Datasheet][h100]  |
 | A100  | Ampere | 19.5 | 156             | 312  | [Datasheet][a100]  |
 | A10G  | Ampere | 35   | 35              | 70   | [Datasheet][a10g]  |
 | A6000 | Ampere | 38   | ?               | ?    | [Datasheet][a6000] |
@@ -99,6 +100,7 @@ Below are the raw TFLOPs of the different GPUs available from cloud providers.
 | K80   | Kepler | 8.73 | N/A             | N/A  | [Datasheet][k80]   |
 | A40   | Ampere | 37   | 150             | 150  | [Datasheet][a40]   |
 
+[h100]: https://www.megware.com/fileadmin/user_upload/LandingPage%20NVIDIA/nvidia-h100-datasheet.pdf
 [a100]: https://www.nvidia.com/content/dam/en-zz/Solutions/Data-Center/a100/pdf/nvidia-a100-datasheet-us-nvidia-1758950-r4-web.pdf
 [a10g]: https://d1.awsstatic.com/product-marketing/ec2/NVIDIA_AWS_A10G_DataSheet_FINAL_02_17_2022.pdf
 [a6000]: https://www.nvidia.com/content/dam/en-zz/Solutions/design-visualization/quadro-product-literature/proviz-print-nvidia-rtx-a6000-datasheet-us-nvidia-1454980-r9-web%20(1).pdf
