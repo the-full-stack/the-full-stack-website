@@ -37,7 +37,7 @@ The table below does not include all possible configurations for all providers, 
 
 - Most providers, including AWS, Azure, and Lambda, provide instances with pre-set configurations.
 - On GCP, any suitable machine can be connected to a configuration of GPUs.
-- On other providers, like Oblivus Cloud, Cudo Compute, and RunPod, users have precise control over the resources they request. Note that RunPod's Community Cloud, Oblivus, and Cudo are all "open clouds", meaning compute is provided by third parties.
+- On other providers, like Oblivus Cloud, Cudo Compute, and RunPod, users have precise control over the resources they request. Note that RunPod's Community Cloud, Oblivus, and Cudo are all "open clouds", meaning compute is provided by third parties. [Lium](https://lium.io/?utm_source=fullstackdeeplearning&utm_medium=directory) is also an open cloud: independent providers set their own per-second prices, published at https://lium.io/pricing.json.
 - For providers without pre-set instance configurations, we have selected configurations that are roughly equivalent to AWS's options. Generally, these configurations are good for workloads that require heavy inter-GPU communication.
 - Where possible, regions were set to be the west or central parts of the United States. GPU availability depends on the region.
 - Raw data can be found in a [csv on GitHub](https://github.com/full-stack-deep-learning/website/blob/main/docs/cloud-gpus/cloud-gpus.csv).
