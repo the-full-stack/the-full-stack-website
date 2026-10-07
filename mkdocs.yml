@@ -68,6 +68,19 @@ plugins:
       time_format: '%Y-%m-%d'
       meta_time_format: '%Y-%m-%d'
   - macros
+  - redirects: # Fix 404s reported by Google Search Console for URLs with an obvious intended target
+      redirect_maps:
+        "bootcamp.md": "llm-bootcamp/index.md"
+        "llm-.md": "llm-bootcamp/index.md"
+        "llm-b.md": "llm-bootcamp/index.md"
+        "llm-boo.md": "llm-bootcamp/index.md"
+        "llm-boot.md": "llm-bootcamp/index.md"
+        "llm-bootc.md": "llm-bootcamp/index.md"
+        "course/2022/lecture-1-course-.md": "course/2022/lecture-1-course-vision-and-when-to-use-ml/index.md"
+        "course/2022/lecture-5-data-management.md": "course/2022/lecture-4-data-management/index.md"
+        "spring2021/lecture.md": "spring2021/index.md"
+        "november2019.md": "https://fall2019.fullstackdeeplearning.com/"
+        "novenmber2019.md": "https://fall2019.fullstackdeeplearning.com/"
   - search
   - section-index # Make top-level nav sections that contain an index.md clickable
 

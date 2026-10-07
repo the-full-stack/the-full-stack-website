@@ -12,7 +12,7 @@
 
 ## Notes
 
-[Download notes as PDF](/spring2021/lecture-notes-pdfs/FSDL Spring 2021 - Research Directions.pdf)
+[Download notes as PDF](/spring2021/lecture-notes-pdfs/FSDL%20Spring%202021%20-%20Research%20Directions.pdf)
 
 *Lecture by [Pieter Abbeel](https://people.eecs.berkeley.edu/~pabbeel/).
 Notes transcribed by [James Le](https://twitter.com/le_james94)

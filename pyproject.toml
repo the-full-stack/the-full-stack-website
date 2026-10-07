@@ -9,6 +9,7 @@ dependencies = [
     "mkdocs-blogging-plugin",
     "mkdocs-macros-plugin",
     "mkdocs-material",
+    "mkdocs-redirects==1.2.2",
     "mkdocs-section-index",
 ]
 
