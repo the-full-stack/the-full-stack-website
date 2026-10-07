@@ -16,7 +16,7 @@ Monitoring:
 
 ## Notes
 
-[Download notes as PDF](/spring2021/lecture-notes-pdfs/FSDL Spring 2021 - Deploying and Monitoring ML Models.pdf)
+[Download notes as PDF](/spring2021/lecture-notes-pdfs/FSDL%20Spring%202021%20-%20Deploying%20and%20Monitoring%20ML%20Models.pdf)
 
 *Lecture by [Josh Tobin](http://josh-tobin.com).
 Notes transcribed by [James Le](https://twitter.com/le_james94)

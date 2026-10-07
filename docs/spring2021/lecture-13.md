@@ -12,7 +12,7 @@
 
 ## Notes
 
-[Download notes as PDF](/spring2021/lecture-notes-pdfs/FSDL Spring 2021 - Machine-Learning-Teams.pdf)
+[Download notes as PDF](/spring2021/lecture-notes-pdfs/FSDL%20Spring%202021%20-%20Machine-Learning-Teams.pdf)
 
 *Lecture by [Josh Tobin](http://josh-tobin.com).
 Notes transcribed by [James Le](https://twitter.com/le_james94)

@@ -12,7 +12,7 @@
 
 ## Notes
 
-[Download notes as PDF](/spring2021/lecture-notes-pdfs/FSDL Spring 2021 - ML Testing and Explainability.pdf)
+[Download notes as PDF](/spring2021/lecture-notes-pdfs/FSDL%20Spring%202021%20-%20ML%20Testing%20and%20Explainability.pdf)
 
 *Lecture by [Josh Tobin](http://josh-tobin.com).
 Notes transcribed by [James Le](https://twitter.com/le_james94)
