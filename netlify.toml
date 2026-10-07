@@ -1,0 +1,4 @@
+# Netlify (staging + deploy previews). Dependencies are managed by uv, see pyproject.toml.
+[build]
+  command = "pip install uv && python -m uv run mkdocs build"
+  publish = "site"
