@@ -2,3 +2,6 @@
 [build]
   command = "pip install uv && python -m uv run mkdocs build"
   publish = "site"
+
+[build.environment]
+  NODE_VERSION = "22"
