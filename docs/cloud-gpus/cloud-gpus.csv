@@ -1,4 +1,9 @@
 Cloud,GPU Type,GPU Arch,GPUs,GPU RAM,vCPUs,RAM,On-demand,Per-GPU,Spot,Name
+Apidly Cloud,A100 (40 GB),Ampere,1,40,7,41,1.24,1.24,0.87,
+Apidly Cloud,L40S (48 GB),Ada Lovelace,1,48,8,61,1.61,1.61,1.00,
+Apidly Cloud,RTX 3090 (24 GB),Ampere,1,24,6,27,0.40,0.40,0.28,
+Apidly Cloud,RTX 4090 (24 GB),Ada Lovelace,1,24,12,30,0.85,0.85,,
+Apidly Cloud,RTX 5090 (32 GB),Blackwell,1,32,16,30,1.17,1.17,,
 Avian,B200 (180 GB),Blackwell,8,1440,128,2048,,5.40,,avian-b200-hgx-8gpu-node
 Avian,B300 (288 GB),Blackwell Ultra,8,2304,192,4096,,5.40,,avian-b300-hgx-8gpu-node
 AWS,A100 (80 GB),Ampere,8,640,96,1152,40.97,5.12,,p4de.24xlarge
