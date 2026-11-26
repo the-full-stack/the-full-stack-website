@@ -41,6 +41,7 @@ The table below does not include all possible configurations for all providers, 
 - For providers without pre-set instance configurations, we have selected configurations that are roughly equivalent to AWS's options. Generally, these configurations are good for workloads that require heavy inter-GPU communication.
 - Where possible, regions were set to be the west or central parts of the United States. GPU availability depends on the region.
 - Raw data can be found in a [csv on GitHub](https://github.com/full-stack-deep-learning/website/blob/main/docs/cloud-gpus/cloud-gpus.csv).
+- Avian sells prepaid reserved 8-GPU nodes only (no on-demand tier), so its Per-GPU figure is the 12-month rate. Longer terms fall to $3.42 (B200) and $4.23 (B300): [all terms](https://avian.io/compute/).
 - Costs can be substantially reduced via preemption recovery and failover across clouds. If you don't want to roll your own, consider a tool like [SkyPilot](https://github.com/skypilot-org/skypilot). See [discussion of their launch on Hacker News](https://news.ycombinator.com/item?id=33964285), December 13, 2022.
 
 <center>*All prices are in $/hr.*</center>
